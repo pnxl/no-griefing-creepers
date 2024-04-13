@@ -1,6 +1,6 @@
 {
-	"pack": {
-		"pack_format": 15,
-		"description": "Disables creeper griefing."
-	}
+  "pack": {
+    "pack_format": 12,
+    "description": "Disables creeper griefing."
+  }
 }
