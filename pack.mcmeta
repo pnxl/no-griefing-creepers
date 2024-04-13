@@ -1,6 +1,6 @@
 {
   "pack": {
     "pack_format": 8,
-    "description": "Disables creeper griefing."
+    "description": "Disables creeper explosions without disabling mobGriefing."
   }
 }
